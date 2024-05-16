@@ -1,0 +1,22 @@
+body{
+    background: url("https://cdn.pixabay.com/photo/2017/12/01/08/52/circles-2990426_1280.jpg");
+    background-size: cover;
+}
+
+.card{
+    height: 80vh;
+    width: 40vw;
+    background: url("https://cdn.pixabay.com/photo/2018/09/08/09/48/ornament-3662184_1280.jpg");
+    background-size: cover;
+    top: 22%;
+    left: 19%;
+    position: absolute;
+    color: white;
+    padding-left: 300px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#back{
+    visibility: hidden;
+}
